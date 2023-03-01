@@ -4,14 +4,13 @@ Currently a student<br>Interested in computer science and cybersecurity</br>
 Currently learning Python, looking to learn data science and Artificial Intelligence
 
 ### Past projects:
-[Shroom Boi (Discord bot)](https://github.com/IronForce-Auscent/Le-Shroom-Boi)
-[Personal Website](https://github.com/IronForce-Auscent/personal-website)
-[Second personal website](https://github.com/1t-Ju5t-eX1st5/flask_experimental_project)
-[Program to communicate with ESI (EVE Swagger Interface) API](https://github.com/1t-Ju5t-eX1st5/esi_sso_projects)
+<br>[Shroom Boi (Discord bot)](https://github.com/IronForce-Auscent/Le-Shroom-Boi)</br>
+<br>[Personal Website](https://github.com/IronForce-Auscent/personal-website)</br>
+<br>[Second personal website](https://github.com/1t-Ju5t-eX1st5/flask_experimental_project)</br>
+<br>[Program to communicate with ESI (EVE Swagger Interface) API](https://github.com/1t-Ju5t-eX1st5/esi_sso_projects)</br>
 
 ### Achievements:
-Winning Team for Advanced Youth Cyber Exploration Programme (A.YCEP) 2021
-Second Runner-UP Team for Youth Cyber Exploration Programme (YCEP) 2022
+Winning Team for Advanced Youth Cyber Exploration Programme (A.YCEP) 2021 || Second Runner-UP Team for Youth Cyber Exploration Programme (YCEP) 2022
 
 Edusave Awards for Achievement, Good Leadership and Service (EAGLES) 2022
 
