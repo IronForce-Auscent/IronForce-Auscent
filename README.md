@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Currently a student
+### Interested in computer science and cybersecurity
+
+### Past projects:
+[![Shroom Boi (Discord bot)](https://github.com/IronForce-Auscent/Le-Shroom-Boi)]
+
 <!--
 **IronForce-Auscent/IronForce-Auscent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
