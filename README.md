@@ -15,6 +15,13 @@ Winning Team for Advanced Youth Cyber Exploration Programme (A.YCEP) 2021 || Sec
 Edusave Awards for Achievement, Good Leadership and Service (EAGLES) 2022
 
 
+### Codewars:
+[![Badge](https://www.codewars.com/users/IronForce-Auscent/badges/large)](https://www.codewars.com/users/IronForce-Auscent)
+
+### Contact Me:
+
+
+
 <!--
 **IronForce-Auscent/IronForce-Auscent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
