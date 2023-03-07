@@ -18,6 +18,12 @@ Edusave Awards for Achievement, Good Leadership and Service (EAGLES) 2022
 ### Codewars:
 [![Badge](https://www.codewars.com/users/IronForce-Auscent/badges/large)](https://www.codewars.com/users/IronForce-Auscent)
 
+### Github Stats:
+| **My Stats** | **My Top Langauages** |
+|:---:|:---:|
+| [![My github stats](https://github-readme-stats.vercel.app/api?username=Jus-Codin&theme=tokyonight)](https://github.com/Jus-Codin/Jus-Codin) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jus-Codin&theme=tokyonight&layout=compact)](https://github.com/Jus-Codin/Jus-Codin)|
+
+
 ### Contact Me:
 
 
