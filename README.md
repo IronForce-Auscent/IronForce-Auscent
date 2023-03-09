@@ -7,6 +7,7 @@ Currently learning Python, looking to learn data science and Artificial Intellig
 <br>[Shroom Boi (Discord bot)](https://github.com/IronForce-Auscent/Le-Shroom-Boi)</br>
 <br>[Personal Website](https://github.com/IronForce-Auscent/personal-website)</br>
 <br>[Second personal website](https://github.com/1t-Ju5t-eX1st5/flask_experimental_project)</br>
+<br>[Secondary school's Open House 2022](https://github.com/IronForce-Auscent/s3_openhouse_computing)</br>
 <br>[Program to communicate with ESI (EVE Swagger Interface) API](https://github.com/1t-Ju5t-eX1st5/esi_sso_projects)</br>
 <br>[EVE Online-focused website](https://github.com/1t-Ju5t-eX1st5/northland-core)</br>
 
