@@ -26,9 +26,6 @@ Edusave Awards for Achievement, Good Leadership and Service (EAGLES) 2022
 | [![My github stats](https://github-readme-stats.vercel.app/api?username=IronForce-Auscent&theme=tokyonight)](https://github.com/IronForce-Auscent/IronForce-Auscent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IronForce-Auscent&theme=tokyonight&layout=compact)](https://github.com/JIronForce-Auscent/IronForce-Auscent)|
 
 
-### Contact Me:
-
-
 
 <!--
 **IronForce-Auscent/IronForce-Auscent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
