@@ -12,7 +12,7 @@ Currently learning Python, looking to learn data science and Artificial Intellig
 <br>[EVE Online-focused website](https://github.com/1t-Ju5t-eX1st5/northland-core)</br>
 
 ### Achievements:
-Winning Team for Advanced Youth Cyber Exploration Programme (A.YCEP) 2021 || Second Runner-UP Team for Youth Cyber Exploration Programme (YCEP) 2022
+Winning Team for Advanced Youth Cyber Exploration Programme (A.YCEP) 2021 || Second Runner-UP Team for Youth Cyber Exploration Programme (YCEP) 2022 || Participant for Hack-The-Box Cyber Apocalypse 2023
 
 Edusave Awards for Achievement, Good Leadership and Service (EAGLES) 2022
 
